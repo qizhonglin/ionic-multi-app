@@ -1,0 +1,10 @@
+{
+  "global": {
+    "status": "Status",
+    "chats": "Chats",
+    "account": "Account",
+    "list": "List",
+    "debug": "Debug",
+    "scroll": "Scroll"
+  }
+}

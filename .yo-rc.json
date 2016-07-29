@@ -1,0 +1,24 @@
+{
+  "generator-m-ionic": {
+    "answers": {
+      "appName": "app_patient",
+      "appId": "com.philips.patient",
+      "ionicCss": false,
+      "bowerPackages": [
+        "angular-dynamic-locale#~0.1.27",
+        "angular-translate#~2.11.0",
+        "angular-translate-loader-static-files#~2.11.0",
+        "localforage#~1.4.0"
+      ],
+      "platforms": [
+        "ios",
+        "android"
+      ],
+      "plugins": [
+        "cordova-plugin-device"
+      ],
+      "appModule": "app_patient",
+      "ecosystems": []
+    }
+  }
+}

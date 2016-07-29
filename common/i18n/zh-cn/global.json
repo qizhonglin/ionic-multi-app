@@ -1,0 +1,10 @@
+{
+  "global": {
+    "status": "状态",
+    "chats": "聊天",
+    "account": "帐户",
+    "list": "列表",
+    "debug": "调试",
+    "scroll": "滚动"
+  }
+}
