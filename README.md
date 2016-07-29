@@ -1,3 +1,13 @@
+#Client
+this is ionic project, which is generated via yeoman generator-m-ionic. in order to support multi app, the directory and gulpfile are modified.
+common contains shared modules
+// copy common module and bower_component into app_patient, sass->css, inject js and css and bower_component into index.html, then watch and reload
+$gulp --app app_patient
+
+//contains the above function, meanwhile, optimize js and css into www
+$gulp watch-build --app app_patient
+
+
 # app_patient
 This project was generated with Generator-M-Ionic v1.9.2. For more info visit the [repository](https://github.com/mwaylabs/generator-m-ionic) or check out the README below.
 
